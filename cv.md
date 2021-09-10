@@ -20,7 +20,7 @@ Customs officer.
 2013 - 2019
 Belarusian State Agrarian Technical University
 Bachelor's degree,Engineer
-***
+****
 ####SKILL'S
 * HTML
 * CSS
